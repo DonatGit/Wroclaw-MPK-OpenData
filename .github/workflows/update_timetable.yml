@@ -2,11 +2,15 @@ name: Auto Update Timetable
 
 on:
   schedule:
-    - cron: '0 3 * * *' # Automatyczne uruchomienie codziennie o 3:00 w nocy
-  workflow_dispatch: # Dodaje przycisk "Run workflow" w panelu GitHub do ręcznego wywołania
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+# OTO TA POPRAWKA: Wymuszamy Node.js 24 globalnie dla całego skryptu
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 permissions:
-  contents: write # Daje botowi uprawnienia do zapisu (wypchnięcia) wygenerowanych plików JSON
+  contents: write
 
 jobs:
   run-script:
@@ -28,11 +32,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          # Dodajemy wygenerowany folder hours do poczekalni gita
           git add hours/
-          
-          # Sprawdzamy, czy OpenData Wrocław opublikowało nowe dane i czy pliki się zmieniły
           if git diff --staged --quiet; then
             echo "Brak zmian w rozkładzie jazdy na serwerach MPK. Kończę zadanie."
           else
