@@ -1,0 +1,41 @@
+name: Auto Update Timetable
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # Automatyczne uruchomienie codziennie o 3:00 w nocy
+  workflow_dispatch: # Dodaje przycisk "Run workflow" w panelu GitHub do ręcznego wywołania
+
+permissions:
+  contents: write # Daje botowi uprawnienia do zapisu (wypchnięcia) wygenerowanych plików JSON
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Klonowanie repozytorium
+        uses: actions/checkout@v4
+
+      - name: Instalacja i konfiguracja Pythona
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Uruchomienie skryptu generującego rozkład
+        run: python script.py
+
+      - name: Automatyczny commit i push zaktualizowanych plików JSON
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Dodajemy wygenerowany folder hours do poczekalni gita
+          git add hours/
+          
+          # Sprawdzamy, czy OpenData Wrocław opublikowało nowe dane i czy pliki się zmieniły
+          if git diff --staged --quiet; then
+            echo "Brak zmian w rozkładzie jazdy na serwerach MPK. Kończę zadanie."
+          else
+            git commit -m "Automatyczna aktualizacja rozkładu jazdy [Skip CI]"
+            git push
+          fi
