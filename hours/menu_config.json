@@ -1,0 +1,929 @@
+{
+  "stops": [
+    {
+      "friendly": "GALERIA DOMINIKAŃSKA",
+      "safe": "galeria_dominikanska"
+    },
+    {
+      "friendly": "RONDO",
+      "safe": "rondo"
+    }
+  ],
+  "lines": [
+    {
+      "stop": "galeria_dominikanska",
+      "line": "0",
+      "dir": "ZOO"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "10",
+      "dir": "BISKUPIN"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "10",
+      "dir": "LEŚNICA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "102",
+      "dir": "KOSMONAUTÓW (PĘTLA)"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "103",
+      "dir": "JANÓWEK"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "103",
+      "dir": "PRACZE ODRZAŃSKIE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "11",
+      "dir": "KROMERA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "11",
+      "dir": "OPORÓW"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "110",
+      "dir": "GALERIA DOMINIKAŃSKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "110",
+      "dir": "IWINY - PĘTLA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "110",
+      "dir": "IWINY - RONDO"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "110",
+      "dir": "ZAJEZDNIA TYSKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "112",
+      "dir": "GALERIA DOMINIKAŃSKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "112",
+      "dir": "KRZYKI"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "112",
+      "dir": "ZAJEZDNIA GAZOWA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "113",
+      "dir": "GALERIA DOMINIKAŃSKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "113",
+      "dir": "KRZYKI"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "113",
+      "dir": "ZAJEZDNIA GAZOWA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "114",
+      "dir": "BIEŃKOWICE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "114",
+      "dir": "GALERIA DOMINIKAŃSKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "114",
+      "dir": "ZAJEZDNIA TYSKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "12",
+      "dir": "GÓRNICZA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "12",
+      "dir": "STADION OLIMPIJSKI"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "12",
+      "dir": "ZAJEZDNIA GAJ"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "120",
+      "dir": "BLIZANOWICE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "120",
+      "dir": "GALERIA DOMINIKAŃSKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "120",
+      "dir": "OPATOWICE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "120",
+      "dir": "TRESTNO (PĘTLA)"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "13",
+      "dir": "STADION OLIMPIJSKI"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "13",
+      "dir": "WROCŁAW NOWY DWÓR (P+R)"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "13",
+      "dir": "ZAJEZDNIA GAJ"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "17",
+      "dir": "8 MAJA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "17",
+      "dir": "KLECINA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "2",
+      "dir": "BISKUPIN"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "2",
+      "dir": "KRZYKI"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "2",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "2",
+      "dir": "ZAJEZDNIA GAJ"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "23",
+      "dir": "KOWALE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "23",
+      "dir": "KROMERA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "23",
+      "dir": "WROCŁAW NOWY DWÓR (P+R)"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "23",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "241",
+      "dir": "PAWŁOWICE (WIDAWSKA)"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "241",
+      "dir": "PETRUSEWICZA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "241",
+      "dir": "WROCŁAW NOWY DWÓR (P+R)"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "241",
+      "dir": "ZAJEZDNIA TYSKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "242",
+      "dir": "KOWALE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "242",
+      "dir": "PETRUSEWICZA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "243",
+      "dir": "KSIĘŻE WIELKIE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "243",
+      "dir": "LEŚNICA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "243",
+      "dir": "PETRUSEWICZA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "243",
+      "dir": "PILCZYCE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "244",
+      "dir": "KMINKOWA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "244",
+      "dir": "PETRUSEWICZA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "244",
+      "dir": "ZAJEZDNIA OBORNICKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "244",
+      "dir": "ŚWINIARY"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "245",
+      "dir": "BIEŃKOWICE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "245",
+      "dir": "PETRUSEWICZA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "245",
+      "dir": "PRACZE ODRZAŃSKIE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "245",
+      "dir": "ZAJEZDNIA OBORNICKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "246",
+      "dir": "KOZANÓW"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "246",
+      "dir": "SOŁTYSOWICE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "246",
+      "dir": "ZAJEZDNIA OBORNICKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "251",
+      "dir": "KRZYKI"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "251",
+      "dir": "LITEWSKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "251",
+      "dir": "PETRUSEWICZA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "253",
+      "dir": "LEŚNICA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "253",
+      "dir": "PETRUSEWICZA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "253",
+      "dir": "STADION OLIMPIJSKI"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "253",
+      "dir": "ZAJEZDNIA OBORNICKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "255",
+      "dir": "BARTOSZOWICE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "255",
+      "dir": "IWINY - RONDO"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "255",
+      "dir": "PETRUSEWICZA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "255",
+      "dir": "ZAJEZDNIA OBORNICKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "255",
+      "dir": "ZAJEZDNIA TYSKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "259",
+      "dir": "PETRUSEWICZA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "259",
+      "dir": "WOJNÓW (PĘTLA)"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "259",
+      "dir": "ZAJEZDNIA OBORNICKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "259",
+      "dir": "ZWYCIĘSKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "3",
+      "dir": "KSIĘŻE MAŁE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "3",
+      "dir": "LEŚNICA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "3",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "3",
+      "dir": "ZAJEZDNIA GAJ"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "5",
+      "dir": "GRABISZYŃSKA (CMENTARZ)"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "5",
+      "dir": "KSIĘŻE MAŁE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "5",
+      "dir": "ZAJEZDNIA GAJ"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "6",
+      "dir": "KROMERA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "602",
+      "dir": "BEZPIECZNA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "602",
+      "dir": "DWORZEC GŁÓWNY (STAWOWA)"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "602",
+      "dir": "ZAJEZDNIA OBORNICKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "8",
+      "dir": "KARŁOWICE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "8",
+      "dir": "TARNOGAJ"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "8",
+      "dir": "ZAJEZDNIA GAJ"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "9",
+      "dir": "8 MAJA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "9",
+      "dir": "PARK POŁUDNIOWY"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "9",
+      "dir": "ZAJEZDNIA GAJ"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "914",
+      "dir": "GALERIA DOMINIKAŃSKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "914",
+      "dir": "PRUSZOWICE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "924",
+      "dir": "GALERIA DOMINIKAŃSKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "924",
+      "dir": "PIECOWICE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "924",
+      "dir": "STĘPIN - KOŚCIÓŁ"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "D",
+      "dir": "GIEŁDOWA (CENTRUM HURTU)"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "D",
+      "dir": "OSIEDLE SOBIESKIEGO"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "D",
+      "dir": "PETRUSEWICZA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "K",
+      "dir": "GAJ - PĘTLA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "K",
+      "dir": "KAMIEŃSKIEGO (PĘTLA)"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "K",
+      "dir": "ZAJEZDNIA OBORNICKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "N",
+      "dir": "JAGODNO (P+R)"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "N",
+      "dir": "LITEWSKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "N",
+      "dir": "ZAJEZDNIA OBORNICKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "T",
+      "dir": "ZOO"
+    },
+    {
+      "stop": "rondo",
+      "line": "10",
+      "dir": "LEŚNICA"
+    },
+    {
+      "stop": "rondo",
+      "line": "10",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "12",
+      "dir": "GÓRNICZA"
+    },
+    {
+      "stop": "rondo",
+      "line": "12",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "124",
+      "dir": "KSIĘŻE WIELKIE"
+    },
+    {
+      "stop": "rondo",
+      "line": "124",
+      "dir": "WROCŁAW NOWY DWÓR (P+R)"
+    },
+    {
+      "stop": "rondo",
+      "line": "126",
+      "dir": "KOZANÓW"
+    },
+    {
+      "stop": "rondo",
+      "line": "126",
+      "dir": "KRZYKI"
+    },
+    {
+      "stop": "rondo",
+      "line": "126",
+      "dir": "WOJSZYCKA"
+    },
+    {
+      "stop": "rondo",
+      "line": "126",
+      "dir": "ZAJEZDNIA OBORNICKA"
+    },
+    {
+      "stop": "rondo",
+      "line": "13",
+      "dir": "WROCŁAW NOWY DWÓR (P+R)"
+    },
+    {
+      "stop": "rondo",
+      "line": "13",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "134",
+      "dir": "FAT"
+    },
+    {
+      "stop": "rondo",
+      "line": "134",
+      "dir": "KSIĘŻE WIELKIE"
+    },
+    {
+      "stop": "rondo",
+      "line": "134",
+      "dir": "WROCŁAW NOWY DWÓR (P+R)"
+    },
+    {
+      "stop": "rondo",
+      "line": "15",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "17",
+      "dir": "8 MAJA"
+    },
+    {
+      "stop": "rondo",
+      "line": "17",
+      "dir": "KLECINA"
+    },
+    {
+      "stop": "rondo",
+      "line": "17",
+      "dir": "ZAJEZDNIA GAJ"
+    },
+    {
+      "stop": "rondo",
+      "line": "18",
+      "dir": "GAJ"
+    },
+    {
+      "stop": "rondo",
+      "line": "18",
+      "dir": "TARCZYŃSKI ARENA (KRÓLEWIECKA)"
+    },
+    {
+      "stop": "rondo",
+      "line": "18",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "19",
+      "dir": "KOZANÓW (DOKERSKA)"
+    },
+    {
+      "stop": "rondo",
+      "line": "19",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "19",
+      "dir": "ZOO"
+    },
+    {
+      "stop": "rondo",
+      "line": "2",
+      "dir": "BISKUPIN"
+    },
+    {
+      "stop": "rondo",
+      "line": "2",
+      "dir": "KRZYKI"
+    },
+    {
+      "stop": "rondo",
+      "line": "2",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "2",
+      "dir": "ZAJEZDNIA GAJ"
+    },
+    {
+      "stop": "rondo",
+      "line": "20",
+      "dir": "LEŚNICA"
+    },
+    {
+      "stop": "rondo",
+      "line": "20",
+      "dir": "OPORÓW"
+    },
+    {
+      "stop": "rondo",
+      "line": "20",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "20",
+      "dir": "ZAJEZDNIA GAJ"
+    },
+    {
+      "stop": "rondo",
+      "line": "21",
+      "dir": "GAJ"
+    },
+    {
+      "stop": "rondo",
+      "line": "21",
+      "dir": "TARCZYŃSKI ARENA (KRÓLEWIECKA)"
+    },
+    {
+      "stop": "rondo",
+      "line": "21",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "22",
+      "dir": "PILCZYCE"
+    },
+    {
+      "stop": "rondo",
+      "line": "22",
+      "dir": "TARNOGAJ"
+    },
+    {
+      "stop": "rondo",
+      "line": "22",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "23",
+      "dir": "KOWALE"
+    },
+    {
+      "stop": "rondo",
+      "line": "23",
+      "dir": "WROCŁAW NOWY DWÓR (P+R)"
+    },
+    {
+      "stop": "rondo",
+      "line": "23",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "24",
+      "dir": "KOWALE"
+    },
+    {
+      "stop": "rondo",
+      "line": "24",
+      "dir": "PILCZYCE"
+    },
+    {
+      "stop": "rondo",
+      "line": "24",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "241",
+      "dir": "ZAJEZDNIA OBORNICKA"
+    },
+    {
+      "stop": "rondo",
+      "line": "247",
+      "dir": "GIEŁDOWA (CENTRUM HURTU)"
+    },
+    {
+      "stop": "rondo",
+      "line": "247",
+      "dir": "KRZYKI"
+    },
+    {
+      "stop": "rondo",
+      "line": "247",
+      "dir": "PETRUSEWICZA"
+    },
+    {
+      "stop": "rondo",
+      "line": "247",
+      "dir": "POLANOWICE"
+    },
+    {
+      "stop": "rondo",
+      "line": "247",
+      "dir": "ZAJEZDNIA OBORNICKA"
+    },
+    {
+      "stop": "rondo",
+      "line": "248",
+      "dir": "KRZYKI"
+    },
+    {
+      "stop": "rondo",
+      "line": "248",
+      "dir": "POŚWIĘCKA (OŚRODEK ZDROWIA)"
+    },
+    {
+      "stop": "rondo",
+      "line": "248",
+      "dir": "RACŁAWICKA"
+    },
+    {
+      "stop": "rondo",
+      "line": "248",
+      "dir": "ZAJEZDNIA OBORNICKA"
+    },
+    {
+      "stop": "rondo",
+      "line": "257",
+      "dir": "GIEŁDOWA (CENTRUM HURTU)"
+    },
+    {
+      "stop": "rondo",
+      "line": "257",
+      "dir": "OPORÓW"
+    },
+    {
+      "stop": "rondo",
+      "line": "257",
+      "dir": "RĘDZIN"
+    },
+    {
+      "stop": "rondo",
+      "line": "257",
+      "dir": "ŚLAZOWA"
+    },
+    {
+      "stop": "rondo",
+      "line": "3",
+      "dir": "KSIĘŻE MAŁE"
+    },
+    {
+      "stop": "rondo",
+      "line": "3",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "4",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "6",
+      "dir": "KROMERA"
+    },
+    {
+      "stop": "rondo",
+      "line": "6",
+      "dir": "KRZYKI"
+    },
+    {
+      "stop": "rondo",
+      "line": "6",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "7",
+      "dir": "KLECINA"
+    },
+    {
+      "stop": "rondo",
+      "line": "7",
+      "dir": "POŚWIĘTNE"
+    },
+    {
+      "stop": "rondo",
+      "line": "7",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "7",
+      "dir": "ZAJEZDNIA GAJ"
+    },
+    {
+      "stop": "rondo",
+      "line": "9",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "D",
+      "dir": "GIEŁDOWA (CENTRUM HURTU)"
+    },
+    {
+      "stop": "rondo",
+      "line": "D",
+      "dir": "OSIEDLE SOBIESKIEGO"
+    },
+    {
+      "stop": "rondo",
+      "line": "D",
+      "dir": "ZAJEZDNIA OBORNICKA"
+    }
+  ]
+}
