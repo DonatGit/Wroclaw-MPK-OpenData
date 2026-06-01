@@ -1,7 +1,7 @@
 {
   "stops": [
     {
-      "friendly": "GALERIA DOMINIKAŃSKA",
+      "friendly": "GALERIA DOMINIKANSKA",
       "safe": "galeria_dominikanska"
     },
     {
@@ -23,22 +23,22 @@
     {
       "stop": "galeria_dominikanska",
       "line": "10",
-      "dir": "LEŚNICA"
+      "dir": "LESNICA"
     },
     {
       "stop": "galeria_dominikanska",
       "line": "102",
-      "dir": "KOSMONAUTÓW (PĘTLA)"
+      "dir": "KOSMONAUTOW (PCTLA)"
     },
     {
       "stop": "galeria_dominikanska",
       "line": "103",
-      "dir": "JANÓWEK"
+      "dir": "JANOWEK"
     },
     {
       "stop": "galeria_dominikanska",
       "line": "103",
-      "dir": "PRACZE ODRZAŃSKIE"
+      "dir": "PRACZE ODRZANSKIE"
     },
     {
       "stop": "galeria_dominikanska",
@@ -48,17 +48,17 @@
     {
       "stop": "galeria_dominikanska",
       "line": "11",
-      "dir": "OPORÓW"
+      "dir": "OPOROW"
     },
     {
       "stop": "galeria_dominikanska",
       "line": "110",
-      "dir": "GALERIA DOMINIKAŃSKA"
+      "dir": "GALERIA DOMINIKANSKA"
     },
     {
       "stop": "galeria_dominikanska",
       "line": "110",
-      "dir": "IWINY - PĘTLA"
+      "dir": "IWINY - PCTLA"
     },
     {
       "stop": "galeria_dominikanska",
@@ -73,7 +73,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "112",
-      "dir": "GALERIA DOMINIKAŃSKA"
+      "dir": "GALERIA DOMINIKANSKA"
     },
     {
       "stop": "galeria_dominikanska",
@@ -88,7 +88,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "113",
-      "dir": "GALERIA DOMINIKAŃSKA"
+      "dir": "GALERIA DOMINIKANSKA"
     },
     {
       "stop": "galeria_dominikanska",
@@ -103,12 +103,12 @@
     {
       "stop": "galeria_dominikanska",
       "line": "114",
-      "dir": "BIEŃKOWICE"
+      "dir": "BIENKOWICE"
     },
     {
       "stop": "galeria_dominikanska",
       "line": "114",
-      "dir": "GALERIA DOMINIKAŃSKA"
+      "dir": "GALERIA DOMINIKANSKA"
     },
     {
       "stop": "galeria_dominikanska",
@@ -118,7 +118,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "12",
-      "dir": "GÓRNICZA"
+      "dir": "GORNICZA"
     },
     {
       "stop": "galeria_dominikanska",
@@ -138,7 +138,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "120",
-      "dir": "GALERIA DOMINIKAŃSKA"
+      "dir": "GALERIA DOMINIKANSKA"
     },
     {
       "stop": "galeria_dominikanska",
@@ -148,7 +148,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "120",
-      "dir": "TRESTNO (PĘTLA)"
+      "dir": "TRESTNO (PCTLA)"
     },
     {
       "stop": "galeria_dominikanska",
@@ -158,7 +158,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "13",
-      "dir": "WROCŁAW NOWY DWÓR (P+R)"
+      "dir": "WROCLAW NOWY DWOR (P+R)"
     },
     {
       "stop": "galeria_dominikanska",
@@ -208,7 +208,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "23",
-      "dir": "WROCŁAW NOWY DWÓR (P+R)"
+      "dir": "WROCLAW NOWY DWOR (P+R)"
     },
     {
       "stop": "galeria_dominikanska",
@@ -218,7 +218,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "241",
-      "dir": "PAWŁOWICE (WIDAWSKA)"
+      "dir": "PAWLOWICE (WIDAWSKA)"
     },
     {
       "stop": "galeria_dominikanska",
@@ -228,7 +228,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "241",
-      "dir": "WROCŁAW NOWY DWÓR (P+R)"
+      "dir": "WROCLAW NOWY DWOR (P+R)"
     },
     {
       "stop": "galeria_dominikanska",
@@ -248,12 +248,12 @@
     {
       "stop": "galeria_dominikanska",
       "line": "243",
-      "dir": "KSIĘŻE WIELKIE"
+      "dir": "KSICZE WIELKIE"
     },
     {
       "stop": "galeria_dominikanska",
       "line": "243",
-      "dir": "LEŚNICA"
+      "dir": "LESNICA"
     },
     {
       "stop": "galeria_dominikanska",
@@ -278,17 +278,17 @@
     {
       "stop": "galeria_dominikanska",
       "line": "244",
-      "dir": "ZAJEZDNIA OBORNICKA"
+      "dir": "SWINIARY"
     },
     {
       "stop": "galeria_dominikanska",
       "line": "244",
-      "dir": "ŚWINIARY"
+      "dir": "ZAJEZDNIA OBORNICKA"
     },
     {
       "stop": "galeria_dominikanska",
       "line": "245",
-      "dir": "BIEŃKOWICE"
+      "dir": "BIENKOWICE"
     },
     {
       "stop": "galeria_dominikanska",
@@ -298,7 +298,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "245",
-      "dir": "PRACZE ODRZAŃSKIE"
+      "dir": "PRACZE ODRZANSKIE"
     },
     {
       "stop": "galeria_dominikanska",
@@ -308,12 +308,12 @@
     {
       "stop": "galeria_dominikanska",
       "line": "246",
-      "dir": "KOZANÓW"
+      "dir": "KOZANOW"
     },
     {
       "stop": "galeria_dominikanska",
       "line": "246",
-      "dir": "SOŁTYSOWICE"
+      "dir": "SOLTYSOWICE"
     },
     {
       "stop": "galeria_dominikanska",
@@ -338,7 +338,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "253",
-      "dir": "LEŚNICA"
+      "dir": "LESNICA"
     },
     {
       "stop": "galeria_dominikanska",
@@ -388,7 +388,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "259",
-      "dir": "WOJNÓW (PĘTLA)"
+      "dir": "WOJNOW (PCTLA)"
     },
     {
       "stop": "galeria_dominikanska",
@@ -398,17 +398,17 @@
     {
       "stop": "galeria_dominikanska",
       "line": "259",
-      "dir": "ZWYCIĘSKA"
+      "dir": "ZWYCICSKA"
     },
     {
       "stop": "galeria_dominikanska",
       "line": "3",
-      "dir": "KSIĘŻE MAŁE"
+      "dir": "KSICZE MALE"
     },
     {
       "stop": "galeria_dominikanska",
       "line": "3",
-      "dir": "LEŚNICA"
+      "dir": "LESNICA"
     },
     {
       "stop": "galeria_dominikanska",
@@ -423,12 +423,12 @@
     {
       "stop": "galeria_dominikanska",
       "line": "5",
-      "dir": "GRABISZYŃSKA (CMENTARZ)"
+      "dir": "GRABISZYNSKA (CMENTARZ)"
     },
     {
       "stop": "galeria_dominikanska",
       "line": "5",
-      "dir": "KSIĘŻE MAŁE"
+      "dir": "KSICZE MALE"
     },
     {
       "stop": "galeria_dominikanska",
@@ -448,7 +448,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "602",
-      "dir": "DWORZEC GŁÓWNY (STAWOWA)"
+      "dir": "DWORZEC GLOWNY (STAWOWA)"
     },
     {
       "stop": "galeria_dominikanska",
@@ -458,7 +458,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "8",
-      "dir": "KARŁOWICE"
+      "dir": "KARLOWICE"
     },
     {
       "stop": "galeria_dominikanska",
@@ -478,7 +478,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "9",
-      "dir": "PARK POŁUDNIOWY"
+      "dir": "PARK POLUDNIOWY"
     },
     {
       "stop": "galeria_dominikanska",
@@ -488,7 +488,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "914",
-      "dir": "GALERIA DOMINIKAŃSKA"
+      "dir": "GALERIA DOMINIKANSKA"
     },
     {
       "stop": "galeria_dominikanska",
@@ -498,7 +498,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "924",
-      "dir": "GALERIA DOMINIKAŃSKA"
+      "dir": "GALERIA DOMINIKANSKA"
     },
     {
       "stop": "galeria_dominikanska",
@@ -508,12 +508,12 @@
     {
       "stop": "galeria_dominikanska",
       "line": "924",
-      "dir": "STĘPIN - KOŚCIÓŁ"
+      "dir": "STCPIN - KOSCIOL"
     },
     {
       "stop": "galeria_dominikanska",
       "line": "D",
-      "dir": "GIEŁDOWA (CENTRUM HURTU)"
+      "dir": "GIELDOWA (CENTRUM HURTU)"
     },
     {
       "stop": "galeria_dominikanska",
@@ -528,12 +528,12 @@
     {
       "stop": "galeria_dominikanska",
       "line": "K",
-      "dir": "GAJ - PĘTLA"
+      "dir": "GAJ - PCTLA"
     },
     {
       "stop": "galeria_dominikanska",
       "line": "K",
-      "dir": "KAMIEŃSKIEGO (PĘTLA)"
+      "dir": "KAMIENSKIEGO (PCTLA)"
     },
     {
       "stop": "galeria_dominikanska",
@@ -563,7 +563,7 @@
     {
       "stop": "rondo",
       "line": "10",
-      "dir": "LEŚNICA"
+      "dir": "LESNICA"
     },
     {
       "stop": "rondo",
@@ -573,7 +573,7 @@
     {
       "stop": "rondo",
       "line": "12",
-      "dir": "GÓRNICZA"
+      "dir": "GORNICZA"
     },
     {
       "stop": "rondo",
@@ -583,17 +583,17 @@
     {
       "stop": "rondo",
       "line": "124",
-      "dir": "KSIĘŻE WIELKIE"
+      "dir": "KSICZE WIELKIE"
     },
     {
       "stop": "rondo",
       "line": "124",
-      "dir": "WROCŁAW NOWY DWÓR (P+R)"
+      "dir": "WROCLAW NOWY DWOR (P+R)"
     },
     {
       "stop": "rondo",
       "line": "126",
-      "dir": "KOZANÓW"
+      "dir": "KOZANOW"
     },
     {
       "stop": "rondo",
@@ -613,7 +613,7 @@
     {
       "stop": "rondo",
       "line": "13",
-      "dir": "WROCŁAW NOWY DWÓR (P+R)"
+      "dir": "WROCLAW NOWY DWOR (P+R)"
     },
     {
       "stop": "rondo",
@@ -628,12 +628,12 @@
     {
       "stop": "rondo",
       "line": "134",
-      "dir": "KSIĘŻE WIELKIE"
+      "dir": "KSICZE WIELKIE"
     },
     {
       "stop": "rondo",
       "line": "134",
-      "dir": "WROCŁAW NOWY DWÓR (P+R)"
+      "dir": "WROCLAW NOWY DWOR (P+R)"
     },
     {
       "stop": "rondo",
@@ -663,7 +663,7 @@
     {
       "stop": "rondo",
       "line": "18",
-      "dir": "TARCZYŃSKI ARENA (KRÓLEWIECKA)"
+      "dir": "TARCZYNSKI ARENA (KROLEWIECKA)"
     },
     {
       "stop": "rondo",
@@ -673,7 +673,7 @@
     {
       "stop": "rondo",
       "line": "19",
-      "dir": "KOZANÓW (DOKERSKA)"
+      "dir": "KOZANOW (DOKERSKA)"
     },
     {
       "stop": "rondo",
@@ -708,12 +708,12 @@
     {
       "stop": "rondo",
       "line": "20",
-      "dir": "LEŚNICA"
+      "dir": "LESNICA"
     },
     {
       "stop": "rondo",
       "line": "20",
-      "dir": "OPORÓW"
+      "dir": "OPOROW"
     },
     {
       "stop": "rondo",
@@ -733,7 +733,7 @@
     {
       "stop": "rondo",
       "line": "21",
-      "dir": "TARCZYŃSKI ARENA (KRÓLEWIECKA)"
+      "dir": "TARCZYNSKI ARENA (KROLEWIECKA)"
     },
     {
       "stop": "rondo",
@@ -763,7 +763,7 @@
     {
       "stop": "rondo",
       "line": "23",
-      "dir": "WROCŁAW NOWY DWÓR (P+R)"
+      "dir": "WROCLAW NOWY DWOR (P+R)"
     },
     {
       "stop": "rondo",
@@ -793,7 +793,7 @@
     {
       "stop": "rondo",
       "line": "247",
-      "dir": "GIEŁDOWA (CENTRUM HURTU)"
+      "dir": "GIELDOWA (CENTRUM HURTU)"
     },
     {
       "stop": "rondo",
@@ -823,12 +823,12 @@
     {
       "stop": "rondo",
       "line": "248",
-      "dir": "POŚWIĘCKA (OŚRODEK ZDROWIA)"
+      "dir": "POSWICCKA (OSRODEK ZDROWIA)"
     },
     {
       "stop": "rondo",
       "line": "248",
-      "dir": "RACŁAWICKA"
+      "dir": "RACLAWICKA"
     },
     {
       "stop": "rondo",
@@ -838,27 +838,27 @@
     {
       "stop": "rondo",
       "line": "257",
-      "dir": "GIEŁDOWA (CENTRUM HURTU)"
+      "dir": "GIELDOWA (CENTRUM HURTU)"
     },
     {
       "stop": "rondo",
       "line": "257",
-      "dir": "OPORÓW"
+      "dir": "OPOROW"
     },
     {
       "stop": "rondo",
       "line": "257",
-      "dir": "RĘDZIN"
+      "dir": "RCDZIN"
     },
     {
       "stop": "rondo",
       "line": "257",
-      "dir": "ŚLAZOWA"
+      "dir": "SLAZOWA"
     },
     {
       "stop": "rondo",
       "line": "3",
-      "dir": "KSIĘŻE MAŁE"
+      "dir": "KSICZE MALE"
     },
     {
       "stop": "rondo",
@@ -893,7 +893,7 @@
     {
       "stop": "rondo",
       "line": "7",
-      "dir": "POŚWIĘTNE"
+      "dir": "POSWICTNE"
     },
     {
       "stop": "rondo",
@@ -913,7 +913,7 @@
     {
       "stop": "rondo",
       "line": "D",
-      "dir": "GIEŁDOWA (CENTRUM HURTU)"
+      "dir": "GIELDOWA (CENTRUM HURTU)"
     },
     {
       "stop": "rondo",
