@@ -209,7 +209,7 @@ for target_stop in TARGET_STOPS:
                         "o": dep["o"],
                         "t": dep["t"],
                         "b": dep["b"],
-                        "g": dep["g"],  # Unikalny GPS dla konkretnego kierunku/słupka
+                        "g": dep["g"],  
                         "trace": dep["trace"]
                     })
                     
@@ -227,7 +227,7 @@ for target_stop in TARGET_STOPS:
 print("Sukces! Rozkład pocięty atomowo na relacje: Przystanek -> Linia -> Godzina.")
 
 # ========================================================================
-# NOWOŚĆ - KROK 5: Dynamiczne generowanie pliku konfiguracyjnego menu
+# KROK 5: Dynamiczne generowanie pliku menu (Z WYCZYSZCZONYMI ZNAKAMI PL)
 # ========================================================================
 print("5. Generowanie pliku konfiguracyjnego menu (menu_config.json)...")
 
@@ -235,23 +235,29 @@ menu_stops = []
 menu_lines = []
 seen_lines = set()
 
-# Filtrujemy tylko te przystanki, które faktycznie mają przypisane jakieś kursy w bazie
 active_stops = set(dep["s"] for dep in stop_times)
+
+# Mapa do czyszczenia polskich znaków z zachowaniem spacji dla ekranu LCD
+pl_to_en_map = str.maketrans("ąęćłńóśźżĄĘĆŁŃÓŚŹŻ", "acelnoszzACELNOSZZ")
 
 for stop in TARGET_STOPS:
     if stop in active_stops:
         safe_stop = get_safe_name(stop)
-        # Nazwa przystanku dużymi literami, idealna pod przewijanie w menu
+        
+        # --- MODYFIKACJA: Usuwanie polskich znaków i kapitalizacja ---
+        clean_friendly_name = stop.translate(pl_to_en_map).upper()
+        
         menu_stops.append({
-            "friendly": stop.upper(),
+            "friendly": clean_friendly_name,
             "safe": safe_stop
         })
 
-# Wyciągamy wszystkie unikalne relacje: Przystanek -> Linia -> Kierunek
 for dep in stop_times:
     stop_safe = get_safe_name(dep["s"])
     line_str = dep["l"]
-    direction_str = dep["k"].upper().strip() # Kierunki dużymi literami
+    
+    # Usuwanie polskich znaków również z kierunków (np. SĘPOLNO -> SEPOLNO)
+    direction_str = dep["k"].translate(pl_to_en_map).upper().strip() 
     
     line_key = (stop_safe, line_str, direction_str)
     
@@ -263,7 +269,6 @@ for dep in stop_times:
             "dir": direction_str
         })
 
-# Sortowanie menu dla wygody (najpierw alfabetycznie po przystankach, potem po numerach linii)
 menu_lines.sort(key=lambda x: (x["stop"], x["line"], x["dir"]))
 
 menu_config_output = {
@@ -271,8 +276,7 @@ menu_config_output = {
     "lines": menu_lines
 }
 
-# Zapisujemy plik bezpośrednio w głównym folderze hours/
 with open("hours/menu_config.json", "w", encoding="utf-8") as f:
     json.dump(menu_config_output, f, ensure_ascii=False, indent=2)
 
-print("Sukces! Plik hours/menu_config.json został pomyślnie utworzony.")
+print("Sukces! Plik hours/menu_config.json został pomyślnie utworzony (Brak znaków PL).")
