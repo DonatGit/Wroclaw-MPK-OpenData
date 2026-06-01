@@ -225,3 +225,54 @@ for target_stop in TARGET_STOPS:
                 json.dump(output, f, ensure_ascii=False, indent=2)
 
 print("Sukces! Rozkład pocięty atomowo na relacje: Przystanek -> Linia -> Godzina.")
+
+# ========================================================================
+# NOWOŚĆ - KROK 5: Dynamiczne generowanie pliku konfiguracyjnego menu
+# ========================================================================
+print("5. Generowanie pliku konfiguracyjnego menu (menu_config.json)...")
+
+menu_stops = []
+menu_lines = []
+seen_lines = set()
+
+# Filtrujemy tylko te przystanki, które faktycznie mają przypisane jakieś kursy w bazie
+active_stops = set(dep["s"] for dep in stop_times)
+
+for stop in TARGET_STOPS:
+    if stop in active_stops:
+        safe_stop = get_safe_name(stop)
+        # Nazwa przystanku dużymi literami, idealna pod przewijanie w menu
+        menu_stops.append({
+            "friendly": stop.upper(),
+            "safe": safe_stop
+        })
+
+# Wyciągamy wszystkie unikalne relacje: Przystanek -> Linia -> Kierunek
+for dep in stop_times:
+    stop_safe = get_safe_name(dep["s"])
+    line_str = dep["l"]
+    direction_str = dep["k"].upper().strip() # Kierunki dużymi literami
+    
+    line_key = (stop_safe, line_str, direction_str)
+    
+    if line_key not in seen_lines:
+        seen_lines.add(line_key)
+        menu_lines.append({
+            "stop": stop_safe,
+            "line": line_str,
+            "dir": direction_str
+        })
+
+# Sortowanie menu dla wygody (najpierw alfabetycznie po przystankach, potem po numerach linii)
+menu_lines.sort(key=lambda x: (x["stop"], x["line"], x["dir"]))
+
+menu_config_output = {
+    "stops": menu_stops,
+    "lines": menu_lines
+}
+
+# Zapisujemy plik bezpośrednio w głównym folderze hours/
+with open("hours/menu_config.json", "w", encoding="utf-8") as f:
+    json.dump(menu_config_output, f, ensure_ascii=False, indent=2)
+
+print("Sukces! Plik hours/menu_config.json został pomyślnie utworzony.")
