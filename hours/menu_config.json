@@ -498,7 +498,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "8",
-      "dir": "KARLOWICE"
+      "dir": "KOWALE"
     },
     {
       "stop": "galeria_dominikanska",
@@ -549,6 +549,16 @@
       "stop": "galeria_dominikanska",
       "line": "924",
       "dir": "STCPIN - KOSCIOL"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "B",
+      "dir": "HALA STULECIA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "B",
+      "dir": "OPERA"
     },
     {
       "stop": "galeria_dominikanska",
@@ -689,6 +699,16 @@
       "stop": "rondo",
       "line": "15",
       "dir": "PARK POLUDNIOWY"
+    },
+    {
+      "stop": "rondo",
+      "line": "15",
+      "dir": "POSWICTNE"
+    },
+    {
+      "stop": "rondo",
+      "line": "15",
+      "dir": "ZAJEZDNIA BOREK"
     },
     {
       "stop": "rondo",
@@ -979,11 +999,6 @@
       "stop": "rondo",
       "line": "7",
       "dir": "POSWICTNE"
-    },
-    {
-      "stop": "rondo",
-      "line": "7",
-      "dir": "ZAJEZDNIA OLBIN"
     },
     {
       "stop": "rondo",
