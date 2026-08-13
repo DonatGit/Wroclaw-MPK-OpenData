@@ -132,21 +132,6 @@
     },
     {
       "stop": "galeria_dominikanska",
-      "line": "12",
-      "dir": "GORNICZA"
-    },
-    {
-      "stop": "galeria_dominikanska",
-      "line": "12",
-      "dir": "STADION OLIMPIJSKI"
-    },
-    {
-      "stop": "galeria_dominikanska",
-      "line": "12",
-      "dir": "ZAJEZDNIA OLBIN"
-    },
-    {
-      "stop": "galeria_dominikanska",
       "line": "120",
       "dir": "BLIZANOWICE"
     },
@@ -183,11 +168,6 @@
     {
       "stop": "galeria_dominikanska",
       "line": "13",
-      "dir": "ZAJEZDNIA BOREK"
-    },
-    {
-      "stop": "galeria_dominikanska",
-      "line": "13",
       "dir": "ZAJEZDNIA GAJ"
     },
     {
@@ -204,26 +184,6 @@
       "stop": "galeria_dominikanska",
       "line": "17",
       "dir": "KLECINA"
-    },
-    {
-      "stop": "galeria_dominikanska",
-      "line": "17",
-      "dir": "ZAJEZDNIA OLBIN"
-    },
-    {
-      "stop": "galeria_dominikanska",
-      "line": "2",
-      "dir": "BISKUPIN"
-    },
-    {
-      "stop": "galeria_dominikanska",
-      "line": "2",
-      "dir": "KRZYKI"
-    },
-    {
-      "stop": "galeria_dominikanska",
-      "line": "2",
-      "dir": "ZAJEZDNIA BOREK"
     },
     {
       "stop": "galeria_dominikanska",
@@ -643,7 +603,7 @@
     {
       "stop": "rondo",
       "line": "12",
-      "dir": "STADION OLIMPIJSKI"
+      "dir": "ZAJEZDNIA BOREK"
     },
     {
       "stop": "rondo",
@@ -674,11 +634,6 @@
       "stop": "rondo",
       "line": "126",
       "dir": "ZAJEZDNIA OBORNICKA"
-    },
-    {
-      "stop": "rondo",
-      "line": "13",
-      "dir": "ZAJEZDNIA BOREK"
     },
     {
       "stop": "rondo",
@@ -739,11 +694,6 @@
       "stop": "rondo",
       "line": "17",
       "dir": "ZAJEZDNIA GAJ"
-    },
-    {
-      "stop": "rondo",
-      "line": "17",
-      "dir": "ZAJEZDNIA OLBIN"
     },
     {
       "stop": "rondo",
