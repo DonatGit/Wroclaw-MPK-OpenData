@@ -47,6 +47,16 @@
     },
     {
       "stop": "galeria_dominikanska",
+      "line": "106",
+      "dir": "DWORZEC GLOWNY (DWORCOWA)"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "106",
+      "dir": "ZAJEZDNIA OBORNICKA"
+    },
+    {
+      "stop": "galeria_dominikanska",
       "line": "11",
       "dir": "KROMERA"
     },
