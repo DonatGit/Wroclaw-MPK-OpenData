@@ -677,6 +677,11 @@
     },
     {
       "stop": "rondo",
+      "line": "153",
+      "dir": "PETRUSEWICZA"
+    },
+    {
+      "stop": "rondo",
       "line": "16",
       "dir": "OSOBOWICE"
     },
