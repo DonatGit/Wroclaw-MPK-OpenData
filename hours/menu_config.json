@@ -302,11 +302,6 @@
     },
     {
       "stop": "galeria_dominikanska",
-      "line": "245",
-      "dir": "ZAJEZDNIA OBORNICKA"
-    },
-    {
-      "stop": "galeria_dominikanska",
       "line": "246",
       "dir": "KOZANOW"
     },
@@ -522,16 +517,6 @@
     },
     {
       "stop": "galeria_dominikanska",
-      "line": "B",
-      "dir": "HALA STULECIA"
-    },
-    {
-      "stop": "galeria_dominikanska",
-      "line": "B",
-      "dir": "OPERA"
-    },
-    {
-      "stop": "galeria_dominikanska",
       "line": "D",
       "dir": "GIELDOWA (CENTRUM HURTU)"
     },
@@ -574,11 +559,6 @@
       "stop": "galeria_dominikanska",
       "line": "N",
       "dir": "ZAJEZDNIA OBORNICKA"
-    },
-    {
-      "stop": "galeria_dominikanska",
-      "line": "T",
-      "dir": "ZOO"
     },
     {
       "stop": "rondo",
