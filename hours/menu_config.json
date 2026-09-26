@@ -72,6 +72,11 @@
     },
     {
       "stop": "galeria_dominikanska",
+      "line": "11",
+      "dir": "ZAJEZDNIA OLBIN"
+    },
+    {
+      "stop": "galeria_dominikanska",
       "line": "110",
       "dir": "GALERIA DOMINIKANSKA"
     },
@@ -142,6 +147,31 @@
     },
     {
       "stop": "galeria_dominikanska",
+      "line": "12",
+      "dir": "GORNICZA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "12",
+      "dir": "STADION OLIMPIJSKI"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "12",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "12",
+      "dir": "ZAJEZDNIA GAJ"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "12",
+      "dir": "ZAJEZDNIA OLBIN"
+    },
+    {
+      "stop": "galeria_dominikanska",
       "line": "120",
       "dir": "BLIZANOWICE"
     },
@@ -163,17 +193,17 @@
     {
       "stop": "galeria_dominikanska",
       "line": "13",
-      "dir": "8 MAJA"
-    },
-    {
-      "stop": "galeria_dominikanska",
-      "line": "13",
       "dir": "STADION OLIMPIJSKI"
     },
     {
       "stop": "galeria_dominikanska",
       "line": "13",
       "dir": "WROCLAW NOWY DWOR (P+R)"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "13",
+      "dir": "ZAJEZDNIA BOREK"
     },
     {
       "stop": "galeria_dominikanska",
@@ -187,6 +217,16 @@
     },
     {
       "stop": "galeria_dominikanska",
+      "line": "14",
+      "dir": "ZAJEZDNIA OLBIN"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "15",
+      "dir": "PARK POLUDNIOWY"
+    },
+    {
+      "stop": "galeria_dominikanska",
       "line": "17",
       "dir": "8 MAJA"
     },
@@ -194,6 +234,56 @@
       "stop": "galeria_dominikanska",
       "line": "17",
       "dir": "KLECINA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "17",
+      "dir": "ZAJEZDNIA GAJ"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "17",
+      "dir": "ZAJEZDNIA OLBIN"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "19",
+      "dir": "KOZANOW (DOKERSKA)"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "19",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "19",
+      "dir": "ZOO"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "2",
+      "dir": "BISKUPIN"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "2",
+      "dir": "KRZYKI"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "2",
+      "dir": "ZAJEZDNIA GAJ"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "2",
+      "dir": "ZAJEZDNIA OLBIN"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "22",
+      "dir": "ZAJEZDNIA OLBIN"
     },
     {
       "stop": "galeria_dominikanska",
@@ -427,6 +517,11 @@
     },
     {
       "stop": "galeria_dominikanska",
+      "line": "4",
+      "dir": "ZAJEZDNIA OLBIN"
+    },
+    {
+      "stop": "galeria_dominikanska",
       "line": "5",
       "dir": "GRABISZYNSKA (CMENTARZ)"
     },
@@ -438,12 +533,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "5",
-      "dir": "ZAJEZDNIA BOREK"
-    },
-    {
-      "stop": "galeria_dominikanska",
-      "line": "5",
-      "dir": "ZAJEZDNIA OLBIN"
+      "dir": "ZAJEZDNIA GAJ"
     },
     {
       "stop": "galeria_dominikanska",
@@ -462,8 +552,48 @@
     },
     {
       "stop": "galeria_dominikanska",
-      "line": "8",
+      "line": "7",
+      "dir": "KLECINA"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "7",
+      "dir": "POSWICTNE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "7",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "74",
       "dir": "KOWALE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "74",
+      "dir": "OSOBOWICE"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "74",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "74",
+      "dir": "ZAJEZDNIA GAJ"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "76",
+      "dir": "ZAJEZDNIA OLBIN"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "8",
+      "dir": "POSWICTNE"
     },
     {
       "stop": "galeria_dominikanska",
@@ -474,6 +604,11 @@
       "stop": "galeria_dominikanska",
       "line": "8",
       "dir": "ZAJEZDNIA GAJ"
+    },
+    {
+      "stop": "galeria_dominikanska",
+      "line": "8",
+      "dir": "ZAJEZDNIA OLBIN"
     },
     {
       "stop": "galeria_dominikanska",
@@ -533,7 +668,7 @@
     {
       "stop": "galeria_dominikanska",
       "line": "K",
-      "dir": "GAJ - PCTLA"
+      "dir": "GAJ PCTLA"
     },
     {
       "stop": "galeria_dominikanska",
@@ -593,6 +728,11 @@
     {
       "stop": "rondo",
       "line": "12",
+      "dir": "STADION OLIMPIJSKI"
+    },
+    {
+      "stop": "rondo",
+      "line": "12",
       "dir": "ZAJEZDNIA BOREK"
     },
     {
@@ -627,6 +767,21 @@
     },
     {
       "stop": "rondo",
+      "line": "13",
+      "dir": "STADION OLIMPIJSKI"
+    },
+    {
+      "stop": "rondo",
+      "line": "13",
+      "dir": "WROCLAW NOWY DWOR (P+R)"
+    },
+    {
+      "stop": "rondo",
+      "line": "13",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
       "line": "134",
       "dir": "FAT"
     },
@@ -642,13 +797,18 @@
     },
     {
       "stop": "rondo",
+      "line": "14",
+      "dir": "ZAJEZDNIA GAJ"
+    },
+    {
+      "stop": "rondo",
       "line": "15",
       "dir": "PARK POLUDNIOWY"
     },
     {
       "stop": "rondo",
       "line": "15",
-      "dir": "POSWICTNE"
+      "dir": "POMORSKA"
     },
     {
       "stop": "rondo",
@@ -659,11 +819,6 @@
       "stop": "rondo",
       "line": "153",
       "dir": "PETRUSEWICZA"
-    },
-    {
-      "stop": "rondo",
-      "line": "16",
-      "dir": "OSOBOWICE"
     },
     {
       "stop": "rondo",
@@ -689,6 +844,11 @@
       "stop": "rondo",
       "line": "17",
       "dir": "ZAJEZDNIA GAJ"
+    },
+    {
+      "stop": "rondo",
+      "line": "17",
+      "dir": "ZAJEZDNIA OLBIN"
     },
     {
       "stop": "rondo",
@@ -733,12 +893,7 @@
     {
       "stop": "rondo",
       "line": "2",
-      "dir": "ZAJEZDNIA BOREK"
-    },
-    {
-      "stop": "rondo",
-      "line": "2",
-      "dir": "ZAJEZDNIA GAJ"
+      "dir": "ZAJEZDNIA OLBIN"
     },
     {
       "stop": "rondo",
@@ -754,6 +909,11 @@
       "stop": "rondo",
       "line": "20",
       "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "20",
+      "dir": "ZAJEZDNIA GAJ"
     },
     {
       "stop": "rondo",
@@ -798,21 +958,6 @@
     {
       "stop": "rondo",
       "line": "23",
-      "dir": "ZAJEZDNIA BOREK"
-    },
-    {
-      "stop": "rondo",
-      "line": "24",
-      "dir": "KOWALE"
-    },
-    {
-      "stop": "rondo",
-      "line": "24",
-      "dir": "PILCZYCE"
-    },
-    {
-      "stop": "rondo",
-      "line": "24",
       "dir": "ZAJEZDNIA BOREK"
     },
     {
@@ -888,11 +1033,6 @@
     {
       "stop": "rondo",
       "line": "3",
-      "dir": "KSICZE MALE"
-    },
-    {
-      "stop": "rondo",
-      "line": "3",
       "dir": "LESNICA"
     },
     {
@@ -917,26 +1057,6 @@
     },
     {
       "stop": "rondo",
-      "line": "5",
-      "dir": "ZAJEZDNIA BOREK"
-    },
-    {
-      "stop": "rondo",
-      "line": "6",
-      "dir": "KROMERA"
-    },
-    {
-      "stop": "rondo",
-      "line": "6",
-      "dir": "KRZYKI"
-    },
-    {
-      "stop": "rondo",
-      "line": "6",
-      "dir": "ZAJEZDNIA BOREK"
-    },
-    {
-      "stop": "rondo",
       "line": "7",
       "dir": "KLECINA"
     },
@@ -944,6 +1064,46 @@
       "stop": "rondo",
       "line": "7",
       "dir": "POSWICTNE"
+    },
+    {
+      "stop": "rondo",
+      "line": "7",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "7",
+      "dir": "ZAJEZDNIA GAJ"
+    },
+    {
+      "stop": "rondo",
+      "line": "74",
+      "dir": "KOWALE"
+    },
+    {
+      "stop": "rondo",
+      "line": "74",
+      "dir": "OSOBOWICE"
+    },
+    {
+      "stop": "rondo",
+      "line": "74",
+      "dir": "ZAJEZDNIA BOREK"
+    },
+    {
+      "stop": "rondo",
+      "line": "76",
+      "dir": "KRZYKI"
+    },
+    {
+      "stop": "rondo",
+      "line": "76",
+      "dir": "PILCZYCE"
+    },
+    {
+      "stop": "rondo",
+      "line": "76",
+      "dir": "ZAJEZDNIA BOREK"
     },
     {
       "stop": "rondo",
